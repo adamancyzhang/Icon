@@ -5,3 +5,13 @@ E:\项目\wwb调试\审核后台源码\Source Code - 39498\Z.Icon.Examples.Web\b
 E:\项目\wwb调试\审核后台源码\Source Code - 39498\Z.Icon.Examples.Web\bin\Z.IconLibrary.pdb
 E:\项目\wwb调试\审核后台源码\Source Code - 39498\Z.Icon.Examples.Web\obj\Debug\Z.Icon.Examples.Web.dll
 E:\项目\wwb调试\审核后台源码\Source Code - 39498\Z.Icon.Examples.Web\obj\Debug\Z.Icon.Examples.Web.pdb
+D:\adama\Documents\GitHub\Icon\Z.Icon.Examples.Web\bin\Z.Icon.Examples.Web.dll.config
+D:\adama\Documents\GitHub\Icon\Z.Icon.Examples.Web\bin\Z.Icon.Examples.Web.dll
+D:\adama\Documents\GitHub\Icon\Z.Icon.Examples.Web\bin\Z.Icon.Examples.Web.pdb
+D:\adama\Documents\GitHub\Icon\Z.Icon.Examples.Web\bin\Z.IconLibrary.dll
+D:\adama\Documents\GitHub\Icon\Z.Icon.Examples.Web\bin\Z.IconLibrary.pdb
+D:\adama\Documents\GitHub\Icon\Z.Icon.Examples.Web\obj\Debug\Z.Examples.Web.csprojResolveAssemblyReference.cache
+D:\adama\Documents\GitHub\Icon\Z.Icon.Examples.Web\obj\Debug\Z.Examples.Web.csproj.CoreCompileInputs.cache
+D:\adama\Documents\GitHub\Icon\Z.Icon.Examples.Web\obj\Debug\Z.Examples.Web.csproj.CopyComplete
+D:\adama\Documents\GitHub\Icon\Z.Icon.Examples.Web\obj\Debug\Z.Icon.Examples.Web.dll
+D:\adama\Documents\GitHub\Icon\Z.Icon.Examples.Web\obj\Debug\Z.Icon.Examples.Web.pdb

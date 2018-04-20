@@ -1,0 +1,6 @@
+D:\adama\Documents\GitHub\Icon\Z.IconLibrary\bin\Release\Z.IconLibrary.dll
+D:\adama\Documents\GitHub\Icon\Z.IconLibrary\bin\Release\Z.IconLibrary.pdb
+D:\adama\Documents\GitHub\Icon\Z.IconLibrary\obj\Release\Z.IconLibrary.csprojResolveAssemblyReference.cache
+D:\adama\Documents\GitHub\Icon\Z.IconLibrary\obj\Release\Z.IconLibrary.csproj.CoreCompileInputs.cache
+D:\adama\Documents\GitHub\Icon\Z.IconLibrary\obj\Release\Z.IconLibrary.dll
+D:\adama\Documents\GitHub\Icon\Z.IconLibrary\obj\Release\Z.IconLibrary.pdb
